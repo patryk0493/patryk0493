@@ -2,11 +2,11 @@
 
 ## About Me:
 
-- Frontend developer 
-- ⚛️ I use daily ```.ts```,  ```.js```
+- 🖥️ Frontend developer 
+- ⚛️ I use daily ```.ts```and  ```.js```
 - 🍓 IoT, robotics 🦾 and 3D printing 🖨️ enthusiast 
 - 🏘️ Poland (Kielce)
-- 🔭 
+
 
 ## ⚡ Technologies
 
