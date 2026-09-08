@@ -1,6 +1,6 @@
 ### Hi, I'm Patryk 👋
 
-Frontend Engineer @ Silevis Software — 7+ years building and modernizing
+Fullstack Engineer @ Silevis Software — 7+ years building and modernizing
 production UIs (React, TypeScript, Angular, Svelte).
 
 Core contributor to [ReactGrid](https://github.com/silevis/reactgrid) —
